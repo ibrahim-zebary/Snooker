@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snooker</string>
+    <string name="number_zero">0</string>
+    <string name="number_one">1</string>
+    <string name="number_fifteen">15</string>
+    <string name="team_a">O\'Sullivan</string>
+    <string name="team_b">Williams</string>
+    <string name="pocked_balls">Pocked Balls:</string>
+    <string name="fouls">Wrong shot</string>
+    <string name="start_match">O\'Sullivan starts the match</string>
+    <string name="restart">Restart Match</string>
+</resources>
